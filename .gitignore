@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.safetensors
+.vscode/
+node_modules/
+*.csv
+*.json
+*.pkl
+*.npy
